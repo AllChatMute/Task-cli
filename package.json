@@ -1,0 +1,17 @@
+{
+  "name": "task-cli",
+  "version": "1.0.0",
+  "main": "bin/index.mjs",
+  "bin": {
+    "task-cli": "./bin/index.mjs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Uhanev Ilya",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "commander": "^13.1.0"
+  }
+}
